@@ -1,13 +1,11 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: MohanKumar's First GitHub Page
+author: Mohan Kumar
+email: mohan153@yahoo.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my first GitHub page. Hopefully, and by god's grace, many more to continue.
 
 # social links
 twitter_username: your-twitter-handle
-github_username:  your-github-handle
-
+github_username:  MohanKumar153
 show_excerpts: true # set to false to remove excerpts on the homepage
